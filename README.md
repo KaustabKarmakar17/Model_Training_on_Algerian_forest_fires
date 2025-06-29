@@ -5,3 +5,5 @@ In this Collab file I've Implemented Linear Regression, Lasso Regression alongwi
 Exploratory Data Analysis has also been done.
 
 Main aim is to, "Predict The Temperature using Linear Regression".
+
+Although the accuracy is low, but it may due to Multi-Collinearity within the Features, if this is addressed then we may see improved Accuracy.
